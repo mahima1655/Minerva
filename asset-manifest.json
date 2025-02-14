@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/minerva/static/css/main.2ce12341.css",
+    "main.js": "/minerva/static/js/main.c8460da2.js",
+    "index.html": "/minerva/index.html",
+    "main.2ce12341.css.map": "/minerva/static/css/main.2ce12341.css.map",
+    "main.c8460da2.js.map": "/minerva/static/js/main.c8460da2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ce12341.css",
+    "static/js/main.c8460da2.js"
+  ]
+}
